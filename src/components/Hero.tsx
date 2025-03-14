@@ -155,7 +155,7 @@ export default function Hero() {
         >
           <div className="relative aspect-[0/4] rounded-lg overflow-hidden">
             <img
-              src="assets/images/B&W DP (1).png"
+              src="assests/B&W DP (1).png"
               alt="Profile"
               className="w-full h-full object-cover"
             />
